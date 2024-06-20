@@ -6,23 +6,23 @@ This repository contains a collection of projects and assignments completed as p
 ## Contents
 
 - **Project 1: [Project Title]**
-  - Description: Brief overview of the project.
-  - Key Concepts: List of AI concepts covered in the project.
-  - Technologies: Libraries and tools used (e.g., TensorFlow, PyTorch, scikit-learn).
+  - Description: Brief overview of the project(todo).
+  - Key Concepts: List of AI concepts covered in the project(todo).
+  - Technologies: Libraries and tools used (e.g., TensorFlow, PyTorch, scikit-learn).(todo)
 
-- **Project 2: [Project Title]**
-  - Description: Brief overview of the project.
-  - Key Concepts: List of AI concepts covered in the project.
-  - Technologies: Libraries and tools used.
+- **Project 2: [Supervised Learning , Unsupervised Learning and Quantum Learning]**
+  - Description: Brief overview of the project.(todo)
+  - Key Concepts: List of AI concepts covered in the project.(todo)
+  - Technologies: Libraries and tools used.(todo)
 
-- **Project 2: [Project Title]**
-  - Description: Brief overview of the project.
-  - Key Concepts: List of AI concepts covered in the project.
-  - Technologies: Libraries and tools used.
+- **Project 3: [Reinforcement Learning, Recurrent Nureal Network, Search Algorithms]**
+  - Description: Brief overview of the project.(todo)
+  - Key Concepts: List of AI concepts covered in the project.(todo)
+  - Technologies: Libraries and tools used.(todo)
 
 - **Assignments:**
   - Assignment 1: [Researching about optimizers and and handling imbalanced datasets/ In this assignment we research about differnet optimizers and SMOTE technique . Their performances on the given datasets has been evaluated.]
-  - Assignment 2: [Title/Description]
+  - Assignment 2: [KNN-SVM-GBT-XGBoost/Explanation of these 4 algorithms and using numerical examples for better understanding]
 
 ## How to Use
 
