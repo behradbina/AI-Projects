@@ -1,0 +1,17 @@
+# Notebooks were developed on Google Colab (Python 3.10, TensorFlow 2.15, mid-2024).
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scikit-image
+imbalanced-learn
+tensorflow>=2.12,<2.16
+keras-tuner
+keras-cv
+xgboost
+shap
+gym==0.26.2
+qiskit
+qiskit-aer
+jupyterlab

@@ -1,0 +1,17 @@
+# Jupyter
+.ipynb_checkpoints/
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+# Model weights and outputs
+*.h5
+*.hdf5
+*.keras
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
